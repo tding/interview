@@ -8,4 +8,4 @@
 7. Dynamic programming
 8. bitwise
 9. Statistics
-10. Other
+10. Others
