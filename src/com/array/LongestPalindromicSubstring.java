@@ -27,6 +27,7 @@ public class LongestPalindromicSubstring {
 				pString = s.substring(i, i+2);
 			}
 		}
+		
 		for(int l=3;l<len;l++){
 			for(int i=0;i<len-l;i++){
 				//length from i to j is l
